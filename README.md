@@ -1,4 +1,4 @@
-# HTTP and HTTPS Password Capture and Transmission Analysis Using Wireshark
+# HTTP and HTTPS Password Capture  Using Wireshark
 
 ## 📌 Project Overview
 This project demonstrates the security differences between HTTP and HTTPS protocols during credential transmission. It uses a controlled laboratory environment to show how plain HTTP exposes login data and how HTTPS protects it using Transport Layer Security (TLS) encryption. It also includes an authorized TLS decryption demonstration using browser-generated session secrets.
